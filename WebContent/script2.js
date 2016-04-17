@@ -32,6 +32,21 @@ window.addEventListener("DOMContentLoaded", function() {
 		var image = new Image();
 		image.src = canvas.toDataURL("image/png");
 		document.getElementById("snapshot").href = image.src;
+		link_str = image.src.split(",")[1]
+		$.ajax({
+		    url: "/imagedata/",
+		    type: "get",
+		    datatype:"json",
+		    data: {
+		        "link": link_str
+		    },
+		    success: function(response){
+		        alert(response.message);	
+		        alert(response.keys);
+		    }
+		});
 	});
 }, false);
+
+
 
