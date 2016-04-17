@@ -12,9 +12,12 @@ capture.html and script2.js capture the image. enroll.html checks if the image m
 
 1. Python
 
+
 2.JavaScript
 
+
 3. Kairos Face Recognition API
+
 
 4.EC2
 
