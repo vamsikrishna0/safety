@@ -19,7 +19,7 @@ capture.html and script2.js capture the image. enroll.html checks if the image m
 3. Kairos Face Recognition API
 
 
-4.EC2
+2.EC2
 
 
 ## Authors
