@@ -10,21 +10,21 @@ capture.html and script2.js capture the image. enroll.html checks if the image m
 
 ## Technologies and languages
 
-1. Python
+1.Python
 
 
 2.JavaScript
 
 
-3. Kairos Face Recognition API
+3.Kairos Face Recognition API
 
 
-2.EC2
+4.EC2
 
 
 ## Authors
 
-Vamshi Krishna Angajala
+Vamsi Krishna Angajala
 
 Sayali Pendharkar
 
