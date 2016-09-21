@@ -1,6 +1,7 @@
 <snippet>
   <content>
-# Revolution UC 2016
+#Home Safety App
+Revolution UC 2016
 
 This application captures the image of a person at the door step and recognizes if the person is known or unknown. If the person is known the system triggers a Voice Recognition to perform the further tasks. 
 
