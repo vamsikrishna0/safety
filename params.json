@@ -1,0 +1,6 @@
+{
+  "name": "Safetyapp",
+  "tagline": "A Home Safety Application",
+  "body": "<snippet>\r\n  <content>\r\n#Home Safety App\r\nRevolution UC 2016\r\n\r\nThis application captures the image of a person at the door step and recognizes if the person is known or unknown. If the person is known the system triggers a Voice Recognition to perform the further tasks. \r\n\r\n\r\ncapture.html and script2.js capture the image. enroll.html checks if the image matches with any of the images of the family members.It uses a Kairos API. script.js takes you to the voice recognition page to perform the further tasks.\r\n\r\n\r\n## Technologies and languages\r\n\r\n1.Python\r\n\r\n\r\n2.JavaScript\r\n\r\n\r\n3.Kairos Face Recognition API\r\n\r\n\r\n4.EC2\r\n\r\n\r\n## Authors\r\n\r\nVamsi Krishna Angajala\r\n\r\nSayali Pendharkar\r\n\r\nSuprabha Hegde\r\n\r\nLaxmi Janakiraman\r\n\r\n</content>\r\n</snippet>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
